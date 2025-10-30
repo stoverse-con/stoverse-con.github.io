@@ -1,0 +1,12 @@
+body {background-color: coral;}
+div {border-color: blue;}
+p {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+h1 {
+  text-shadow: 2px 2px #ff0000;
+}
+p.b {
+  font: italic small-caps bold 12px/30px Georgia, serif;
+}
